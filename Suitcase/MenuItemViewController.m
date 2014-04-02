@@ -10,7 +10,7 @@
 #import "TypesUtil.h"
 #import "Suitcase.h"
 
-//luoruofeng 1234
+//luoruofeng 1234  abcd
 #define VIEW_HEIGHT 
 #define VIEW_WIDTH
 
