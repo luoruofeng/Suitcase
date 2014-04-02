@@ -1,0 +1,62 @@
+//
+// Prefix header for all source files of the 'Suitcase' target in the 'Suitcase' project
+//
+#import "UIColor+ColorUtils.h"
+#import "NSDate+DateUtil.h"
+#import "UIView-ViewFrameGeometry.h"
+#import "UIView-TagExtensions.h"
+#import <Availability.h>
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import<CoreData/CoreData.h>
+#import "CoreDataUtil.h"
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+#endif
+
+#define SCREEN_WIDTH [[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+#define APPLICATION_FRAME [[UIScreen mainScreen] applicationFrame]
+#define SCREEN_FRAME [[UIScreen mainScreen] bounds]
+
+#define KEY_WINDOW [[UIApplication sharedApplication] keyWindow]
+
+#define IOS_VERSION [[[UIDevice currentDevice] systemVersion] floatValue]
+
+#define USER_DEFAULTS [NSUserDefaults standardUserDefaults]
+
+
+#define GREEN_COLOR [UIColor colorWithString:@"#18a69a"]
+#define DARK_GRAY_COLOR [UIColor colorWithString:@"#2a2d2f"]
+#define DARK_BLUE_COLOR [UIColor colorWithString:@"#424648"]
+#define LIGHT_GRAY_COLOR [UIColor colorWithString:@"#edefef"]
+
+typedef NS_ENUM (NSInteger, PayItemPayType) {
+    PayItemPayTypeReceivable,
+    PayItemPayTypePayable,
+    PayItemPayTypeReceivableDid,
+    PayItemPayTypePayableDid
+};
+
+#define NAV_HEIGHT 40
+#define SUITCASE_NAV_HEIGHT 200
+#define TITLE_NAV_HEIGHT 65
+
+#define GRAY_COLOR [UIColor colorWithString:@"999999"]
+
+
+#define DELETE_BAR_HEIGHT 80
+
+#define NAV_TAG 1111
+#define TAG_PAGE_CONTROLLER 1112
+#define TAG_NUMBER 1113
+#define TAG_SCORE 1114
+#define TAG_PAST_DUE_VIEW 1115
+
+
+#define SOUNDS_VALUES @"sounds"

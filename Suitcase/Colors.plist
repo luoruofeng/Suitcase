@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>女士上装</key>
+	<string>7023b1</string>
+	<key>女士裤子</key>
+	<string>9161ce</string>
+	<key>女士裙子</key>
+	<string>db84f9</string>
+	<key>男士上装</key>
+	<string>0f4bc7</string>
+	<key>男士裤子</key>
+	<string>1b8ef8</string>
+	<key>鞋</key>
+	<string>06aef5</string>
+	<key>包</key>
+	<string>999999</string>
+	<key>内衣</key>
+	<string>FF5BA8</string>
+	<key>饰品</key>
+	<string>13962e</string>
+	<key>数码</key>
+	<string>a8e402</string>
+	<key>护肤护发</key>
+	<string>eebc00</string>
+	<key>休闲零食</key>
+	<string>e48503</string>
+	<key>娱乐休闲</key>
+	<string>d45b00</string>
+	<key>户外</key>
+	<string>c13001</string>
+	<key>彩妆</key>
+	<string>efad9d</string>
+	<key>母婴</key>
+	<string>ea9c4a</string>
+	<key>医疗</key>
+	<string>7cb16b</string>
+	<key>杂项</key>
+	<string>31cfce</string>
+	<key>文件</key>
+	<string>1FFF2D</string>
+	<key>资金</key>
+	<string>1FFFA4</string>
+	<key>备忘</key>
+	<string>78d9f1</string>
+	<key>行前确认</key>
+	<string>f4fb84</string>
+</dict>
+</plist>

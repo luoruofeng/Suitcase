@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SuitcaseViewController itemOnBagView:]:SuitcaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.blockBottomView.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuItemViewController actionSheet:clickedButtonAtIndex:]:MenuItemViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController addSuitcaseToScrollWithType:]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.menuItemController.suitcase.typeId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SuitcaseViewController itemEndInOrderViewWithGoods:withFromViewType:]:SuitcaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.order.contentSize.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.order.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController addObjects:]:MenuViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuItemViewController isPastDue]:MenuItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dateText.text">
+            </PersistentString>
+            <PersistentString
+               value = " [pastDueDate earlierDate:[NSDate date]]">
+            </PersistentString>
+            <PersistentString
+               value = "!self.dateText">
+            </PersistentString>
+            <PersistentString
+               value = "NSOrderedDescending">
+            </PersistentString>
+            <PersistentString
+               value = "[self.dateText.text isEqualToString:@&quot;&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[pastDueDate compare:[NSDate date]] == NSOrderedDescending">
+            </PersistentString>
+            <PersistentString
+               value = "self.dateText">
+            </PersistentString>
+            <PersistentString
+               value = "[pastDueDate compare:[NSDate date]]">
+            </PersistentString>
+            <PersistentString
+               value = "!self.dateText || [self.dateText.text isEqualToString:@&quot;&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "!self.dateText || [self.dateText.text isEqualToString:@&quot;&quot;] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuItemViewController loadView]:MenuItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "createText.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.suitcase.dateOfDeparture">
+            </PersistentString>
+            <PersistentString
+               value = "[self.suitcase.typeId intValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController showDetail]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.suitcases objectAtIndex:self.curentItemIndex]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController createSuitcaseWithType:]:MenuViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__41-[MenuItemViewController handleSwipeDown]_block_invoke:MenuItemViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController loadData]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.results.fetchedObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DWTagList display]:DWTagList.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "BOTTOM_MARGIN">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController loadView]:MenuViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SuitcaseViewController itemOnOrderView]:SuitcaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_order.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SuitcaseViewController fetchOrderObjects]:SuitcaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.coreData.results">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController handleSwipeDown]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.menuItemController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DZWebBrowser webViewDidFinishLoad:]:DZWebBrowser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "webview.request">
+            </PersistentString>
+            <PersistentString
+               value = "webview.request.URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController scrollViewDidEndDecelerating:]:MenuViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController scrollViewWillBeginDragging:]:MenuViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DWTLabel panEnded:]:DWTagList.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuItemViewController handleSwipeDown]:MenuItemViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController addSuitcase]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.scrollView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[MenuViewController deleteItem]_block_invoke186:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.childViewControllers objectAtIndex:self.curentItemIndex]">
+            </PersistentString>
+            <PersistentString
+               value = "self.childViewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ConfigUtil getBoolValueWithKey:]:ConfigUtil.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[numberValue boolValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DWTLabel panBegan:]:DWTagList.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "keywindow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
