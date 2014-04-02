@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Suitcase.h"
-
+//luoruofeng
 @protocol MenuItemViewControllerDelegate <NSObject>
 @required
 - (void)deleteItem;
